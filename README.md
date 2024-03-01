@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Chemical Balancer-v5.2.0-important.svg" />
+	<img src="https://img.shields.io/badge/Chemical Balancer-v1.0-important.svg" />
 	<img src="https://img.shields.io/badge/Powered by-AMT-purple.svg" />
 </p>
 
