@@ -35,4 +35,4 @@
   <lowercase> ::= "a" | "b" | ... | "z"
 ```
 ## Apply
- - [Download](https://github.com/AMT-J/Chemical-Balancer/releases/tag/v5.2.0)
+ - [Download](https://github.com/AMT-J/Chemical-Balancer/releases/tag/v1.0)
